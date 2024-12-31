@@ -1,0 +1,119 @@
+<section class="colorlib-experience" data-section="experience">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Experience</span>
+							<h2 class="colorlib-heading animate-box">Work Experience</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+				         <div class="timeline-centered">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+
+					               <div class="timeline-icon color-1">
+					                  <i class="icon-pen2"></i>
+					               </div>
+
+					               <div class="timeline-label">
+					                  <h2><a href="#">Senior Software Engineer</a> <span>June,2018 - Present</span>
+					                  </h2>
+					                  <div class="subheading mb-3"> <a href="http://www.apurbatech.com">Apurba Technologies Ltd.</a></div>
+					                   <p> <h5>Data Analytics:</h5> Process, analyze and visualize Medical and clinical trial data applying statistical knowledge and using Python and Java
+<h5>Data Representation:</h5> using javascript-D3, high-chart library, graph-tree using Pydot, matplotlib
+o OCR: Developed OCR engines- processing image using Python libraries and extract information
+using Machine Learning algorithms- CNN, KNN, SVM, MLP, Decision Tree Classifier, Random
+Forest Classifier. Links: http://apurba.com.bd/bangla_ocr.html
+<h5> Combining ML models:</h5> CNN-SVM mixed model for image classification, CNN-RNN mixed
+model for image classification
+<h5>Sentiment Analysis:</h5> Sentiment Analysis for English and Bangla language. Bench marking on
+Bangla Sentiment Analysis Corpus using Machine Learning models- LSTM, KNN, Random
+Forest, Decision Tree classifier, Naïve Bayes.
+<h5> Language Modeling:</h5> Applied Machine Learning algorithm for document similarity, word
+embedding, Language modeling and NLP for medical data
+<h5>Topic Modeling:</h5> LDA topic modeling using spacy and genism and word embedding
+<h5>Web Crawling and Scrapping:</h5> Collect medical data by dynamic search using Python web
+crawling and scrapping technology
+<h5>Python-Java Interoperability:</h5> Developed server application with Python-Java interoperability to
+handle request from client and get results from Machine Learning model
+<h5>Dev Environment:</h5> AWS, Setup Linux server, cuda and Anaconda environment for Machine
+Learning, Google Cloud, WSL</p>
+					               </div>
+					            </div>
+					         </article>
+
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-2">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Statistical Programmer</a> <span>Oct,2015 - May,2018</span></h2>
+					               	<div class="subheading mb-3"> <a href="https://www.shaficonsultancy.com">Shafi Consultancy Ltd.</a></div>
+					               
+					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+					               </div>
+					            </div>
+					         </article>
+
+
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-4">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Solution Delivery Engineer</a> <span>Mar,2014 - April,2015</span></h2>
+					               	<div class="subheading mb-3"><a href="https://ssd-tech.io"> SSD TECH </a></div>
+					                  <p>VAS Service: Developed VAS services using PHP, Java and MySQLGateway: Worked on charging gateway project using Java, MySQL Report Generation: Generated several types of report from databasesSQL / MySql: Developed Sql, MySQL function, procedure, event generation program</p>
+					               </div>
+					            </div>
+					         </article>
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-5">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Solution Delivery Engineer</a> <span>July,2013 - Feb,2014</span></h2>
+
+					               <div class="subheading mb-3"><a href="http://www.truebd.com">True Services Ltd.</a></di>
+					           <p>VAS Service: Developed VAS services using Java, PHP and MySQLServer: IVR service application development using Asterisk server Dev Env: Worked on Ubuntu and CentOS</p>
+					               </div>
+					            </div>
+					         </article>
+
+					         <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-none">
+					               </div>
+					            </div>
+					         </article>
+					      </div>
+					   </div>
+				   </div>
+				</div>
+			</section>
+
+			<section class="colorlib-work" data-section="work">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Publications</span>
+							<h2 class="colorlib-heading animate-box">Recent Work</h2>
+						</div>
+						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+									<div class="hire" color="blue">
+										<h2> Title: “An Annotated Bangla Sentiment Analysis Corpus”</h2>
+										<a href="http://apurba.com.bd/bangla_corpus.html" class="btn-hire">Download Link</a>
+									</div>
+								</div>
+					</div>
+					
+							</div>
+						</div>
+					</div>
